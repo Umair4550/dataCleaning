@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fyp1/.idea/Fyp1.iml" filepath="$PROJECT_DIR$/../Fyp1/.idea/Fyp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataCleaning.iml" filepath="$PROJECT_DIR$/.idea/dataCleaning.iml" />
+    </modules>
+  </component>
+</project>
